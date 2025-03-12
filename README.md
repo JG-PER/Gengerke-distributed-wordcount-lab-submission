@@ -1,4 +1,11 @@
-# Distributed Word Count Lab
+<!--- 
+THIS FORK WAS EDITED FROM THE PROVIDED SOURCE BY JAMES GENGERKE
+-->
+
+# Distributed Word Count Lab - James Gengerke Submission
+
+**This is the completed "Distributed Word Count Lab" submitted by James Gengerke, It contains the relevant Python files that have been slightly altered to be scalable in terms of the python workers**
+
 
 Welcome to the **Distributed Word Count Lab**! This repository demonstrates a simple approach to splitting a text-processing task across multiple Python “workers” using socket communication.
 
